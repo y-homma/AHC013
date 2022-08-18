@@ -1,0 +1,20 @@
+15 2
+Score = 5517
+33 3
+Score = 4665
+29 4
+Score = 4565
+39 5
+Score = 4026
+29 2
+Score = 5008
+33 3
+Score = 4550
+33 4
+Score = 4679
+24 5
+Score = 1421
+24 2
+Score = 5163
+18 3
+Score = 2671
