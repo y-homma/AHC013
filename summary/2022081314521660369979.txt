@@ -1,0 +1,200 @@
+15 2
+Score = 5660
+33 3
+Score = 4805
+29 4
+Score = 5054
+39 5
+Score = 4390
+29 2
+Score = 4990
+33 3
+Score = 5329
+33 4
+Score = 4932
+24 5
+Score = 655
+24 2
+Score = 5094
+18 3
+Score = 1918
+28 4
+Score = 5323
+45 5
+Score = 5040
+27 2
+Score = 5272
+22 3
+Score = 5064
+30 4
+Score = 5047
+44 5
+Score = 4966
+28 2
+Score = 5013
+23 3
+Score = 5268
+26 4
+Score = 4960
+46 5
+Score = 5047
+36 2
+Score = 4454
+22 3
+Score = 4971
+32 4
+Score = 5180
+39 5
+Score = 4942
+21 2
+Score = 5056
+18 3
+Score = 1266
+23 4
+Score = 3809
+39 5
+Score = 4890
+24 2
+Score = 5282
+36 3
+Score = 5063
+22 4
+Score = 1904
+30 5
+Score = 5083
+38 2
+Score = 3928
+33 3
+Score = 4708
+22 4
+Score = 1687
+31 5
+Score = 4207
+38 2
+Score = 4810
+18 3
+Score = 1464
+33 4
+Score = 5173
+45 5
+Score = 4570
+39 2
+Score = 3953
+23 3
+Score = 4840
+31 4
+Score = 5031
+38 5
+Score = 5010
+26 2
+Score = 5182
+34 3
+Score = 4926
+21 4
+Score = 3029
+35 5
+Score = 5208
+18 2
+Score = 4919
+24 3
+Score = 5079
+38 4
+Score = 4754
+32 5
+Score = 4990
+37 2
+Score = 4673
+24 3
+Score = 5417
+45 4
+Score = 2935
+25 5
+Score = 418
+33 2
+Score = 5091
+31 3
+Score = 5114
+42 4
+Score = 4892
+24 5
+Score = 396
+37 2
+Score = 4453
+18 3
+Score = 2699
+43 4
+Score = 4934
+37 5
+Score = 4944
+17 2
+Score = 5080
+28 3
+Score = 5409
+28 4
+Score = 5048
+32 5
+Score = 4162
+15 2
+Score = 5340
+35 3
+Score = 5103
+38 4
+Score = 5176
+47 5
+Score = 4816
+24 2
+Score = 5224
+31 3
+Score = 5578
+32 4
+Score = 5289
+32 5
+Score = 2491
+26 2
+Score = 5362
+36 3
+Score = 4937
+26 4
+Score = 5270
+36 5
+Score = 5161
+30 2
+Score = 4687
+39 3
+Score = 4780
+36 4
+Score = 5070
+48 5
+Score = 4761
+38 2
+Score = 4391
+19 3
+Score = 2097
+41 4
+Score = 4797
+26 5
+Score = 2371
+15 2
+Score = 5037
+37 3
+Score = 5417
+25 4
+Score = 4917
+29 5
+Score = 5045
+18 2
+Score = 5069
+35 3
+Score = 4974
+21 4
+Score = 560
+32 5
+Score = 5027
+24 2
+Score = 5282
+32 3
+Score = 4905
+30 4
+Score = 5368
+36 5
+Score = 5068
